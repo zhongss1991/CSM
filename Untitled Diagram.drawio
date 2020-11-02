@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T07:23:36.552Z" agent="5.0 (Windows)" etag="34dw1s5KNlp4kfuzlsmn" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T07:25:08.690Z" agent="5.0 (Windows)" etag="k1IxGS7zFr4anxduPUUk" version="13.8.8" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="57fe6abec08f04cb-11" value="&lt;div&gt;1、对比送样单及实际送样量接收样本&lt;/div&gt;&lt;div&gt;2、样本存储温度&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-13" value="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;br&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo." style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-13" value="1、扫码接收样本，不符合样本退回" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="855" y="280" width="140" height="470" as="geometry" />
         </mxCell>
         <mxCell id="6znhkv4ogV6za3spi3CF-1" value="入库" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
@@ -50,7 +50,10 @@
           <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6znhkv4ogV6za3spi3CF-5" value="&lt;div&gt;1、对比送样单及实际送样量接收样本&lt;/div&gt;&lt;div&gt;2、样本存储温度&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="270" width="140" height="470" as="geometry" />
+          <mxGeometry x="550" y="280" width="140" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="6znhkv4ogV6za3spi3CF-6" value="1、运输时间、运输温度" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="280" width="140" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
