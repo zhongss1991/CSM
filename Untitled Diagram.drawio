@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T07:31:21.296Z" agent="5.0 (Windows)" etag="iU1ecE0FEnFExcv3q8Yv" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-27T02:07:44.213Z" agent="5.0 (Windows)" etag="6lxJz_qDbBGnSlDnZ-X8" version="13.8.8" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="57fe6abec08f04cb-9" value="1、采样人、采样时间" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="250" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="57fe6abec08f04cb-10" value="1、提交送样单，需填写样本类型、送样数量、送样时间、送样人信息" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="57fe6abec08f04cb-10" value="&lt;div&gt;1、提交送样单，需填写样本类型、送样数量、送样时间、送样人信息&lt;/div&gt;&lt;div&gt;2、需记录每一个样本编码信息&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="400" y="280" width="140" height="470" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-11" value="&lt;div&gt;1、对比送样单及实际送样量接收样本&lt;/div&gt;&lt;div&gt;2、样本存储温度&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
@@ -40,22 +40,22 @@
         <mxCell id="57fe6abec08f04cb-13" value="1、扫码接收样本，不符合样本退回" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="855" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="6znhkv4ogV6za3spi3CF-1" value="入库" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="6znhkv4ogV6za3spi3CF-1" value="入库" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1140" y="180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6znhkv4ogV6za3spi3CF-2" value="&lt;div&gt;1、样本分装&lt;/div&gt;&lt;div&gt;2、样本提取DNA&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="6znhkv4ogV6za3spi3CF-2" value="&lt;div&gt;1、分装&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tecan分装工作站&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 手动分装&lt;/div&gt;&lt;div&gt;2、提DNA&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 对接QIAGEN，获取结果信息及试剂信息&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; TIANGEN，需要有页面可录入结果信息&lt;/div&gt;&lt;div&gt;&amp;nbsp;3、DNA浓度测试&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 对接酶标仪，获取检测结果信息&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="995" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="6znhkv4ogV6za3spi3CF-3" value="扫码接收" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="6znhkv4ogV6za3spi3CF-3" value="扫码接收" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="180" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6znhkv4ogV6za3spi3CF-5" value="&lt;div&gt;1、对比送样单及实际送样量接收样本&lt;/div&gt;&lt;div&gt;2、样本存储温度&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="6znhkv4ogV6za3spi3CF-5" value="&lt;div&gt;1、对比送样单及实际送样量接收样本&lt;/div&gt;&lt;div&gt;2、样本存储温度&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="6znhkv4ogV6za3spi3CF-6" value="1、运输时间、运输温度" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="6znhkv4ogV6za3spi3CF-6" value="1、运输时间、运输温度" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="700" y="280" width="140" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="6znhkv4ogV6za3spi3CF-7" value="&lt;div&gt;1、样本入库&lt;/div&gt;&lt;div&gt;2、样本存储温度&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="6znhkv4ogV6za3spi3CF-7" value="&lt;div&gt;1、样本入库&lt;/div&gt;&lt;div&gt;2、样本存储温度&lt;br&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1150" y="280" width="140" height="470" as="geometry" />
         </mxCell>
       </root>
